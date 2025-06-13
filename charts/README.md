@@ -44,3 +44,14 @@ This is foundational for merging OSHA inspection data with **product sales**, **
 
 ---
 
+### 🗺️ Interactive Choropleth Map – OSHA Inspections by State
+
+This map visualizes the total number of OSHA inspections conducted at U.S. convenience stores (NAICS 445110), with state-by-state shading based on inspection frequency.
+
+📍 **Explore the live map here:**  
+🌐 [osha_inspections_map.html (GitHub Pages)](https://Data-Matt0.github.io/cstore-compliance-trends/charts/osha_inspections_map.html)
+
+> Built with Python, Pandas, and Plotly. Deployed via GitHub Pages.
+
+🗃️ Source data: [osha_top_states.csv](../data/osha_top_states.csv)
+
