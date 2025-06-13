@@ -21,4 +21,4 @@ This project analyzes publicly available OSHA inspection data to identify key co
 - `/charts/osha_trendline.png` – trend visualization
 
 ## 📎 Data Source
-- [OSHA Inspection Data – DataLumos](https://www.openicpsr.org/openicpsr/project/100306/version/V1/view)
+- [OSHA Inspection Data – DataLumos]([https://www.openicpsr.org/openicpsr/project/100306/version/V1/view](https://www.datalumos.org/datalumos/project/100441/version/V1/view?path=/datalumos/100441/fcr:versions/V1.1/osha_inspection.csv&type=file))
