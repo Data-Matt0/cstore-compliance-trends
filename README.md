@@ -21,4 +21,9 @@ This project analyzes publicly available OSHA inspection data to identify key co
 - `/charts/osha_trendline.png` – trend visualization
 
 ## 📎 Data Source
-- [OSHA Inspection Data – DataLumos]([https://www.openicpsr.org/openicpsr/project/100306/version/V1/view](https://www.datalumos.org/datalumos/project/100441/version/V1/view?path=/datalumos/100441/fcr:versions/V1.1/osha_inspection.csv&type=file))
+
+This project uses publicly available OSHA inspection data focused on retail and convenience store industries. Inspections include key attributes such as establishment name, NAICS code, inspection date, and penalty amount.
+
+- 📁 Dataset: **OSHA Inspection Records** (establishment-level, includes NAICS 445110 for convenience stores)  
+- 🧩 Format: CSV  
+- 🔗 Source: [Download from DataLumos](https://www.datalumos.org/datalumos/project/100441/version/V1/view?path=/datalumos/100441/fcr:versions/V1.1/osha_inspection.csv&type=file)
