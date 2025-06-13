@@ -16,7 +16,7 @@ This project analyzes publicly available OSHA inspection data to identify key co
 > OSHA inspections of convenience stores peaked in [YEAR] and have [increased/decreased] since, with certain states and store brands showing higher risk profiles.
 
 ## 📁 Files
-- `/notebooks/cstore_violations_analysis.ipynb` – full code and outputs
+- `/notebooks/OSHA_data_project.ipynb` – full code and outputs
 - `/data/osha_convenience_filtered.csv` – cleaned, filtered data
 - `/charts/osha_trendline.png` – trend visualization
 
