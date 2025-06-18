@@ -12,8 +12,6 @@ This project analyzes publicly available OSHA inspection data to identify key co
 - Google Colab
 - OSHA Inspection Dataset (DataLumos)
 
-## 📈 Key Insight
-> OSHA inspections of convenience stores peaked in [YEAR] and have [increased/decreased] since, with certain states and store brands showing higher risk profiles.
 
 ## 📁 Files
 - `/notebooks/OSHA_data_project.ipynb` – full code and outputs
